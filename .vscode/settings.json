@@ -5,5 +5,8 @@
         "comments": true,
         "strings": true
     },
-    "editor.quickSuggestionsDelay": 100
+    "editor.quickSuggestionsDelay": 100,
+    "notebook.dragAndDropEnabled": false,
+    "notebook.lineNumbers": "on",
+    "notebook.output.fontFamily": ""
 }
