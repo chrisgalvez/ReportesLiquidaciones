@@ -8,5 +8,7 @@
     "editor.quickSuggestionsDelay": 100,
     "notebook.dragAndDropEnabled": false,
     "notebook.lineNumbers": "on",
-    "notebook.output.fontFamily": ""
+    "notebook.output.fontFamily": "",
+    "editor.detectIndentation": false,
+    "mssql.format.alignColumnDefinitionsInColumns": false
 }
