@@ -10,5 +10,6 @@
     "notebook.lineNumbers": "on",
     "notebook.output.fontFamily": "",
     "editor.detectIndentation": false,
-    "mssql.format.alignColumnDefinitionsInColumns": false
+    "mssql.format.alignColumnDefinitionsInColumns": false,
+    "python.defaultInterpreterPath": "d:\\REPOSITORIO CODIGO\\Python\\NOTEBOOKS\\LIQUIDACIONES\\.venv\\Scripts\\python.exe"
 }
